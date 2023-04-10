@@ -1,0 +1,15 @@
+Valor ótimo: 3081.0
+Quantidade usada dp padrão  0: 1388.0
+Quantidade usada dp padrão  1: 0.0
+Quantidade usada dp padrão  2: 0.0
+Quantidade usada dp padrão  3: 0.0
+Quantidade usada dp padrão  4: 0.0
+Quantidade usada dp padrão  5: 949.0
+Quantidade usada dp padrão  6: 437.0
+Quantidade usada dp padrão  7: 0.0
+Quantidade usada dp padrão  8: 0.0
+Quantidade usada dp padrão  9: 0.0
+Quantidade usada dp padrão 10: 0.0
+Quantidade usada dp padrão 11: 307.0
+Quantidade usada dp padrão 12: 0.0
+Quantidade usada dp padrão 13: 0.0

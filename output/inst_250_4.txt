@@ -1,0 +1,26 @@
+Valor ótimo: 2448.0
+Quantidade usada dp padrão  0: 237.0
+Quantidade usada dp padrão  1: 418.0
+Quantidade usada dp padrão  2: 1.0
+Quantidade usada dp padrão  3: 0.0
+Quantidade usada dp padrão  4: 0.0
+Quantidade usada dp padrão  5: 0.0
+Quantidade usada dp padrão  6: 0.0
+Quantidade usada dp padrão  7: 0.0
+Quantidade usada dp padrão  8: 0.0
+Quantidade usada dp padrão  9: 378.0
+Quantidade usada dp padrão 10: 0.0
+Quantidade usada dp padrão 11: 1414.0
+Quantidade usada dp padrão 12: 0.0
+Quantidade usada dp padrão 13: 0.0
+Quantidade usada dp padrão 14: 0.0
+Quantidade usada dp padrão 15: 0.0
+Quantidade usada dp padrão 16: 0.0
+Quantidade usada dp padrão 17: 0.0
+Quantidade usada dp padrão 18: 0.0
+Quantidade usada dp padrão 19: 0.0
+Quantidade usada dp padrão 20: 0.0
+Quantidade usada dp padrão 21: 0.0
+Quantidade usada dp padrão 22: 0.0
+Quantidade usada dp padrão 23: 0.0
+Quantidade usada dp padrão 24: 0.0
