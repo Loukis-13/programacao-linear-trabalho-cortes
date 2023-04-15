@@ -1,65 +1,104 @@
-Valor ótimo: 3078.0
-Quantidade usada dp padrão  0: 0.0
-Quantidade usada dp padrão  1: 32.0
-Quantidade usada dp padrão  2: 0.0
-Quantidade usada dp padrão  3: 0.0
-Quantidade usada dp padrão  4: 0.0
-Quantidade usada dp padrão  5: 0.0
-Quantidade usada dp padrão  6: 1135.0
-Quantidade usada dp padrão  7: 0.0
-Quantidade usada dp padrão  8: 0.0
-Quantidade usada dp padrão  9: 0.0
-Quantidade usada dp padrão 10: 0.0
-Quantidade usada dp padrão 11: 0.0
-Quantidade usada dp padrão 12: 0.0
-Quantidade usada dp padrão 13: 0.0
-Quantidade usada dp padrão 14: 0.0
-Quantidade usada dp padrão 15: 0.0
-Quantidade usada dp padrão 16: 0.0
-Quantidade usada dp padrão 17: 0.0
-Quantidade usada dp padrão 18: 0.0
-Quantidade usada dp padrão 19: 0.0
-Quantidade usada dp padrão 20: 0.0
-Quantidade usada dp padrão 21: 0.0
-Quantidade usada dp padrão 22: 762.0
-Quantidade usada dp padrão 23: 0.0
-Quantidade usada dp padrão 24: 0.0
-Quantidade usada dp padrão 25: 0.0
-Quantidade usada dp padrão 26: 0.0
-Quantidade usada dp padrão 27: 0.0
-Quantidade usada dp padrão 28: 0.0
-Quantidade usada dp padrão 29: 0.0
-Quantidade usada dp padrão 30: 0.0
-Quantidade usada dp padrão 31: 0.0
-Quantidade usada dp padrão 32: 0.0
-Quantidade usada dp padrão 33: 0.0
-Quantidade usada dp padrão 34: 0.0
-Quantidade usada dp padrão 35: 1004.0
-Quantidade usada dp padrão 36: 0.0
-Quantidade usada dp padrão 37: 0.0
-Quantidade usada dp padrão 38: 0.0
-Quantidade usada dp padrão 39: 0.0
-Quantidade usada dp padrão 40: 0.0
-Quantidade usada dp padrão 41: 0.0
-Quantidade usada dp padrão 42: 0.0
-Quantidade usada dp padrão 43: 0.0
-Quantidade usada dp padrão 44: 0.0
-Quantidade usada dp padrão 45: 0.0
-Quantidade usada dp padrão 46: 144.0
-Quantidade usada dp padrão 47: 0.0
-Quantidade usada dp padrão 48: 0.0
-Quantidade usada dp padrão 49: 0.0
-Quantidade usada dp padrão 50: 0.0
-Quantidade usada dp padrão 51: 0.0
-Quantidade usada dp padrão 52: 0.0
-Quantidade usada dp padrão 53: 0.0
-Quantidade usada dp padrão 54: 0.0
-Quantidade usada dp padrão 55: 0.0
-Quantidade usada dp padrão 56: 0.0
-Quantidade usada dp padrão 57: 0.0
-Quantidade usada dp padrão 58: 0.0
-Quantidade usada dp padrão 59: 0.0
-Quantidade usada dp padrão 60: 0.0
-Quantidade usada dp padrão 61: 1.0
-Quantidade usada dp padrão 62: 0.0
-Quantidade usada dp padrão 63: 0.0
+    33  43  52  60  87  Resto
+0    0   0   0   1   2     16
+1    0   0   0   4   0     10
+2    0   0   1   0   2     24
+3    0   0   1   3   0     18
+4    0   0   2   2   0     26
+5    0   0   3   0   1      7
+6    0   1   0   2   1      0
+7    0   1   0   3   0     27
+8    0   1   1   1   1      8
+9    0   1   2   0   1     16
+10   0   2   0   1   1     17
+11   0   2   1   0   1     25
+12   0   2   2   1   0      0
+13   0   2   3   0   0      8
+14   0   3   0   2   0      1
+15   0   3   1   1   0      9
+16   0   3   2   0   0     17
+17   0   4   0   1   0     18
+18   0   4   1   0   0     26
+19   1   0   0   2   1     10
+20   1   0   1   1   1     18
+21   1   0   2   0   1     26
+22   1   0   3   1   0      1
+23   1   0   4   0   0      9
+24   1   1   0   0   2      0
+25   1   1   0   1   1     27
+26   1   1   1   2   0      2
+27   1   1   2   1   0     10
+28   1   1   3   0   0     18
+29   1   2   0   2   0     11
+30   1   2   1   1   0     19
+31   1   2   2   0   0     27
+32   1   3   0   0   1      1
+33   1   3   0   1   0     28
+34   1   5   0   0   0      2
+35   2   0   0   0   2     10
+36   2   0   0   3   0      4
+37   2   0   1   2   0     12
+38   2   0   2   1   0     20
+39   2   0   3   0   0     28
+40   2   1   0   2   0     21
+41   2   1   1   0   1      2
+42   2   1   1   1   0     29
+43   2   2   0   0   1     11
+44   2   3   1   0   0      3
+45   2   4   0   0   0     12
+46   3   0   0   1   1      4
+47   3   0   0   2   0     31
+48   3   0   1   0   1     12
+49   3   1   0   0   1     21
+50   3   1   2   0   0      4
+51   3   2   0   1   0      5
+52   3   2   1   0   0     13
+53   3   3   0   0   0     22
+54   4   0   0   0   1     31
+55   4   0   1   1   0      6
+56   4   0   2   0   0     14
+57   4   1   0   1   0     15
+58   4   1   1   0   0     23
+59   4   2   0   0   0     32
+60   5   0   0   1   0     25
+61   6   0   1   0   0      0
+62   6   1   0   0   0      9
+63   7   0   0   0   0     19
+
+Tamanho da bobina matriz: 250
+Tamanho das bobinas menores: [33, 43, 52, 60, 87]
+Demandas: [3206, 1135, 2287, 3304, 3286]
+
+Quantidade de bobinas usadas: 3078
+
+Padrão  1: (0, 0, 0, 4, 0) resto 10
+Quantidade usada: 32
+Quantidade desperdiçada: 320
+Quantidade satisfeita de cada demanda: (0, 0, 0, 128, 0)
+
+Padrão  6: (0, 1, 0, 2, 1) resto 0
+Quantidade usada: 1135
+Quantidade desperdiçada: 0
+Quantidade satisfeita de cada demanda: (0, 1135, 0, 2270, 1135)
+
+Padrão 22: (1, 0, 3, 1, 0) resto 1
+Quantidade usada: 762
+Quantidade desperdiçada: 762
+Quantidade satisfeita de cada demanda: (762, 0, 2286, 762, 0)
+
+Padrão 35: (2, 0, 0, 0, 2) resto 10
+Quantidade usada: 1004
+Quantidade desperdiçada: 10040
+Quantidade satisfeita de cada demanda: (2008, 0, 0, 0, 2008)
+
+Padrão 46: (3, 0, 0, 1, 1) resto 4
+Quantidade usada: 144
+Quantidade desperdiçada: 576
+Quantidade satisfeita de cada demanda: (432, 0, 0, 144, 144)
+
+Padrão 61: (6, 0, 1, 0, 0) resto 0
+Quantidade usada: 1
+Quantidade desperdiçada: 0
+Quantidade satisfeita de cada demanda: (6, 0, 1, 0, 0)
+
+Quantidade total de papel gasto: 769500
+Quantidade desperdiçada: 11698

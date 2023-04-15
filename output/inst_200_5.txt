@@ -1,52 +1,101 @@
-Valor ótimo: 3339.0
-Quantidade usada dp padrão  0: 865.0
-Quantidade usada dp padrão  1: 0.0
-Quantidade usada dp padrão  2: 770.0
-Quantidade usada dp padrão  3: 1.0
-Quantidade usada dp padrão  4: 285.0
-Quantidade usada dp padrão  5: 0.0
-Quantidade usada dp padrão  6: 1.0
-Quantidade usada dp padrão  7: 0.0
-Quantidade usada dp padrão  8: 0.0
-Quantidade usada dp padrão  9: 478.0
-Quantidade usada dp padrão 10: 0.0
-Quantidade usada dp padrão 11: 0.0
-Quantidade usada dp padrão 12: 1.0
-Quantidade usada dp padrão 13: 0.0
-Quantidade usada dp padrão 14: 0.0
-Quantidade usada dp padrão 15: 0.0
-Quantidade usada dp padrão 16: 0.0
-Quantidade usada dp padrão 17: 0.0
-Quantidade usada dp padrão 18: 0.0
-Quantidade usada dp padrão 19: 0.0
-Quantidade usada dp padrão 20: 0.0
-Quantidade usada dp padrão 21: 0.0
-Quantidade usada dp padrão 22: 938.0
-Quantidade usada dp padrão 23: 0.0
-Quantidade usada dp padrão 24: 0.0
-Quantidade usada dp padrão 25: 0.0
-Quantidade usada dp padrão 26: 0.0
-Quantidade usada dp padrão 27: 0.0
-Quantidade usada dp padrão 28: 0.0
-Quantidade usada dp padrão 29: 0.0
-Quantidade usada dp padrão 30: 0.0
-Quantidade usada dp padrão 31: 0.0
-Quantidade usada dp padrão 32: 0.0
-Quantidade usada dp padrão 33: 0.0
-Quantidade usada dp padrão 34: 0.0
-Quantidade usada dp padrão 35: 0.0
-Quantidade usada dp padrão 36: 0.0
-Quantidade usada dp padrão 37: 0.0
-Quantidade usada dp padrão 38: 0.0
-Quantidade usada dp padrão 39: 0.0
-Quantidade usada dp padrão 40: 0.0
-Quantidade usada dp padrão 41: 0.0
-Quantidade usada dp padrão 42: 0.0
-Quantidade usada dp padrão 43: 0.0
-Quantidade usada dp padrão 44: 0.0
-Quantidade usada dp padrão 45: 0.0
-Quantidade usada dp padrão 46: 0.0
-Quantidade usada dp padrão 47: 0.0
-Quantidade usada dp padrão 48: 0.0
-Quantidade usada dp padrão 49: 0.0
-Quantidade usada dp padrão 50: 0.0
+    21  24  43  79  98  Resto
+0    0   0   0   0   2      4
+1    0   0   2   0   1     16
+2    0   1   0   2   0     18
+3    0   1   2   1   0     11
+4    0   1   4   0   0      4
+5    0   2   1   0   1     11
+6    0   3   1   1   0      6
+7    0   4   0   0   1      6
+8    0   4   2   0   0     18
+9    0   5   0   1   0      1
+10   0   6   1   0   0     13
+11   0   8   0   0   0      8
+12   1   0   0   1   1      2
+13   1   0   2   1   0     14
+14   1   0   4   0   0      7
+15   1   1   1   0   1     14
+16   1   2   1   1   0      9
+17   1   2   3   0   0      2
+18   1   3   0   0   1      9
+19   1   4   0   1   0      4
+20   1   5   1   0   0     16
+21   1   7   0   0   0     11
+22   2   0   0   2   0      0
+23   2   0   1   0   1     17
+24   2   1   1   1   0     12
+25   2   1   3   0   0      5
+26   2   2   0   0   1     12
+27   2   3   0   1   0      7
+28   2   3   2   0   0      0
+29   2   4   1   0   0     19
+30   2   6   0   0   0     14
+31   3   0   1   1   0     15
+32   3   0   3   0   0      8
+33   3   1   0   0   1     15
+34   3   2   0   1   0     10
+35   3   2   2   0   0      3
+36   3   5   0   0   0     17
+37   4   0   0   0   1     18
+38   4   1   0   1   0     13
+39   4   1   2   0   0      6
+40   4   3   1   0   0      1
+41   4   4   0   0   0     20
+42   5   0   0   1   0     16
+43   5   0   2   0   0      9
+44   5   2   1   0   0      4
+45   6   1   1   0   0      7
+46   6   3   0   0   0      2
+47   7   0   1   0   0     10
+48   7   2   0   0   0      5
+49   8   1   0   0   0      8
+50   9   0   0   0   0     11
+
+Tamanho da bobina matriz: 200
+Tamanho das bobinas menores: [21, 24, 43, 79, 98]
+Demandas: [1876, 3448, 1142, 3896, 1731]
+
+Quantidade de bobinas usadas: 3339
+
+Padrão  0: (0, 0, 0, 0, 2) resto 4
+Quantidade usada: 865
+Quantidade desperdiçada: 3460
+Quantidade satisfeita de cada demanda: (0, 0, 0, 0, 1730)
+
+Padrão  2: (0, 1, 0, 2, 0) resto 18
+Quantidade usada: 770
+Quantidade desperdiçada: 13860
+Quantidade satisfeita de cada demanda: (0, 770, 0, 1540, 0)
+
+Padrão  3: (0, 1, 2, 1, 0) resto 11
+Quantidade usada: 1
+Quantidade desperdiçada: 11
+Quantidade satisfeita de cada demanda: (0, 1, 2, 1, 0)
+
+Padrão  4: (0, 1, 4, 0, 0) resto 4
+Quantidade usada: 285
+Quantidade desperdiçada: 1140
+Quantidade satisfeita de cada demanda: (0, 285, 1140, 0, 0)
+
+Padrão  6: (0, 3, 1, 1, 0) resto 6
+Quantidade usada: 1
+Quantidade desperdiçada: 6
+Quantidade satisfeita de cada demanda: (0, 3, 1, 1, 0)
+
+Padrão  9: (0, 5, 0, 1, 0) resto 1
+Quantidade usada: 478
+Quantidade desperdiçada: 478
+Quantidade satisfeita de cada demanda: (0, 2390, 0, 478, 0)
+
+Padrão 12: (1, 0, 0, 1, 1) resto 2
+Quantidade usada: 1
+Quantidade desperdiçada: 2
+Quantidade satisfeita de cada demanda: (1, 0, 0, 1, 1)
+
+Padrão 22: (2, 0, 0, 2, 0) resto 0
+Quantidade usada: 938
+Quantidade desperdiçada: 0
+Quantidade satisfeita de cada demanda: (1876, 0, 0, 1876, 0)
+
+Quantidade total de papel gasto: 667800
+Quantidade desperdiçada: 18957

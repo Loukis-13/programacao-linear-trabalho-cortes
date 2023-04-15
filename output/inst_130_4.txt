@@ -1,15 +1,44 @@
-Valor ótimo: 3081.0
-Quantidade usada dp padrão  0: 1388.0
-Quantidade usada dp padrão  1: 0.0
-Quantidade usada dp padrão  2: 0.0
-Quantidade usada dp padrão  3: 0.0
-Quantidade usada dp padrão  4: 0.0
-Quantidade usada dp padrão  5: 949.0
-Quantidade usada dp padrão  6: 437.0
-Quantidade usada dp padrão  7: 0.0
-Quantidade usada dp padrão  8: 0.0
-Quantidade usada dp padrão  9: 0.0
-Quantidade usada dp padrão 10: 0.0
-Quantidade usada dp padrão 11: 307.0
-Quantidade usada dp padrão 12: 0.0
-Quantidade usada dp padrão 13: 0.0
+    19  28  54  63  Resto
+0    0   0   0   2      4
+1    0   0   1   1     13
+2    0   2   0   1     11
+3    0   4   0   0     18
+4    1   0   2   0      3
+5    1   2   1   0      1
+6    2   1   0   1      1
+7    2   1   1   0     10
+8    2   3   0   0      8
+9    3   0   0   1     10
+10   3   2   0   0     17
+11   4   0   1   0      0
+12   5   1   0   0      7
+13   6   0   0   0     16
+
+Tamanho da bobina matriz: 130
+Tamanho das bobinas menores: [19, 28, 54, 63]
+Demandas: [3050, 2334, 1256, 3213]
+
+Quantidade de bobinas usadas: 3081
+
+Padrão  0: (0, 0, 0, 2) resto 4
+Quantidade usada: 1388
+Quantidade desperdiçada: 5552
+Quantidade satisfeita de cada demanda: (0, 0, 0, 2776)
+
+Padrão  5: (1, 2, 1, 0) resto 1
+Quantidade usada: 949
+Quantidade desperdiçada: 949
+Quantidade satisfeita de cada demanda: (949, 1898, 949, 0)
+
+Padrão  6: (2, 1, 0, 1) resto 1
+Quantidade usada: 437
+Quantidade desperdiçada: 437
+Quantidade satisfeita de cada demanda: (874, 437, 0, 437)
+
+Padrão 11: (4, 0, 1, 0) resto 0
+Quantidade usada: 307
+Quantidade desperdiçada: 0
+Quantidade satisfeita de cada demanda: (1228, 0, 307, 0)
+
+Quantidade total de papel gasto: 400530
+Quantidade desperdiçada: 6938
