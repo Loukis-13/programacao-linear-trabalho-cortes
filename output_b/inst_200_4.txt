@@ -1,0 +1,39 @@
+    21  43  79  98  Resto
+0    0   0   0   2      4
+1    0   2   0   1     16
+2    1   0   1   1      2
+3    1   2   1   0     14
+4    1   4   0   0      7
+5    2   0   2   0      0
+6    2   1   0   1     17
+7    3   1   1   0     15
+8    3   3   0   0      8
+9    4   0   0   1     18
+10   5   0   1   0     16
+11   5   2   0   0      9
+12   7   1   0   0     10
+13   9   0   0   0     11
+
+Tamanho da bobina matriz: 200
+Tamanho das bobinas menores: [21, 43, 79, 98]
+Demandas: [1876, 3448, 1142, 3896]
+
+Quantidade de bobinas usadas: 3381
+
+Padrão  0: (0, 0, 0, 2) resto 4
+Quantidade usada: 1948
+Quantidade desperdiçada: 7792
+Quantidade satisfeita de cada demanda: (0, 0, 0, 3896)
+
+Padrão  4: (1, 4, 0, 0) resto 7
+Quantidade usada: 862
+Quantidade desperdiçada: 6034
+Quantidade satisfeita de cada demanda: (862, 3448, 0, 0)
+
+Padrão  5: (2, 0, 2, 0) resto 0
+Quantidade usada: 571
+Quantidade desperdiçada: 0
+Quantidade satisfeita de cada demanda: (1142, 0, 1142, 0)
+
+Quantidade total de papel gasto: 676200
+Quantidade desperdiçada: 13826

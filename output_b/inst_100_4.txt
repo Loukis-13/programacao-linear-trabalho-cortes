@@ -1,0 +1,54 @@
+    15  16  31  40  Resto
+0    0   0   3   0      7
+1    0   1   0   2      4
+2    0   1   1   1     13
+3    0   2   2   0      6
+4    0   3   0   1     12
+5    0   4   1   0      5
+6    0   6   0   0      4
+7    1   0   0   2      5
+8    1   0   1   1     14
+9    1   1   2   0      7
+10   1   2   0   1     13
+11   1   3   1   0      6
+12   1   5   0   0      5
+13   2   0   2   0      8
+14   2   1   0   1     14
+15   2   2   1   0      7
+16   2   4   0   0      6
+17   3   1   1   0      8
+18   3   3   0   0      7
+19   4   0   0   1      0
+20   4   0   1   0      9
+21   4   2   0   0      8
+22   5   1   0   0      9
+23   6   0   0   0     10
+
+Tamanho da bobina matriz: 100
+Tamanho das bobinas menores: [15, 16, 31, 40]
+Demandas: [1040, 3220, 3207, 1048]
+
+Quantidade de bobinas usadas: 2194
+
+Padrão  0: (0, 0, 3, 0) resto 7
+Quantidade usada: 1069
+Quantidade desperdiçada: 7483
+Quantidade satisfeita de cada demanda: (0, 0, 3207, 0)
+
+Padrão  1: (0, 1, 0, 2) resto 4
+Quantidade usada: 394
+Quantidade desperdiçada: 1576
+Quantidade satisfeita de cada demanda: (0, 394, 0, 788)
+
+Padrão  6: (0, 6, 0, 0) resto 4
+Quantidade usada: 471
+Quantidade desperdiçada: 1884
+Quantidade satisfeita de cada demanda: (0, 2826, 0, 0)
+
+Padrão 19: (4, 0, 0, 1) resto 0
+Quantidade usada: 260
+Quantidade desperdiçada: 0
+Quantidade satisfeita de cada demanda: (1040, 0, 0, 260)
+
+Quantidade total de papel gasto: 219400
+Quantidade desperdiçada: 10943
