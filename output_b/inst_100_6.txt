@@ -95,47 +95,37 @@ Tamanho da bobina matriz: 100
 Tamanho das bobinas menores: [15, 16, 18, 31, 32, 40]
 Demandas: [1040, 3220, 3207, 1048, 1370, 2637]
 
-Quantidade de bobinas usadas: 3128
-
-Padrão  0: (0, 0, 0, 0, 3, 0) resto 4
-Quantidade usada: 387
-Quantidade desperdiçada: 1548
-Quantidade satisfeita de cada demanda: (0, 0, 0, 0, 1161, 0)
+Quantidade de bobinas usadas: 3129
 
 Padrão  3: (0, 0, 0, 3, 0, 0) resto 7
-Quantidade usada: 281
-Quantidade desperdiçada: 1967
-Quantidade satisfeita de cada demanda: (0, 0, 0, 843, 0, 0)
+Quantidade usada: 350
+Quantidade desperdiçada: 2450
+Quantidade satisfeita de cada demanda: (0, 0, 0, 1050, 0, 0)
 
 Padrão  4: (0, 0, 1, 0, 0, 2) resto 2
-Quantidade usada: 1187
-Quantidade desperdiçada: 2374
-Quantidade satisfeita de cada demanda: (0, 0, 1187, 0, 0, 2374)
+Quantidade usada: 548
+Quantidade desperdiçada: 1096
+Quantidade satisfeita de cada demanda: (0, 0, 548, 0, 0, 1096)
 
-Padrão  8: (0, 0, 2, 1, 1, 0) resto 1
-Quantidade usada: 205
-Quantidade desperdiçada: 205
-Quantidade satisfeita de cada demanda: (0, 0, 410, 205, 205, 0)
+Padrão  7: (0, 0, 2, 0, 2, 0) resto 0
+Quantidade usada: 685
+Quantidade desperdiçada: 0
+Quantidade satisfeita de cada demanda: (0, 0, 1370, 0, 1370, 0)
 
 Padrão 13: (0, 1, 0, 0, 0, 2) resto 4
-Quantidade usada: 2
-Quantidade desperdiçada: 8
-Quantidade satisfeita de cada demanda: (0, 2, 0, 0, 0, 4)
-
-Padrão 16: (0, 1, 1, 0, 2, 0) resto 2
-Quantidade usada: 2
-Quantidade desperdiçada: 4
-Quantidade satisfeita de cada demanda: (0, 2, 2, 0, 4, 0)
+Quantidade usada: 641
+Quantidade desperdiçada: 2564
+Quantidade satisfeita de cada demanda: (0, 641, 0, 0, 0, 1282)
 
 Padrão 33: (0, 4, 2, 0, 0, 0) resto 0
-Quantidade usada: 804
+Quantidade usada: 645
 Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (0, 3216, 1608, 0, 0, 0)
+Quantidade satisfeita de cada demanda: (0, 2580, 1290, 0, 0, 0)
 
 Padrão 82: (4, 0, 0, 0, 0, 1) resto 0
 Quantidade usada: 260
 Quantidade desperdiçada: 0
 Quantidade satisfeita de cada demanda: (1040, 0, 0, 0, 0, 260)
 
-Quantidade total de papel gasto: 312800
-Quantidade desperdiçada: 6106
+Quantidade total de papel gasto: 312900
+Quantidade desperdiçada: 6110

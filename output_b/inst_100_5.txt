@@ -46,11 +46,6 @@ Demandas: [1040, 3220, 3207, 1048, 1370]
 
 Quantidade de bobinas usadas: 2678
 
-Padrão  0: (0, 0, 0, 3, 0) resto 4
-Quantidade usada: 349
-Quantidade desperdiçada: 1396
-Quantidade satisfeita de cada demanda: (0, 0, 0, 1047, 0)
-
 Padrão  3: (0, 0, 3, 0, 0) resto 7
 Quantidade usada: 1069
 Quantidade desperdiçada: 7483
@@ -62,14 +57,19 @@ Quantidade desperdiçada: 2220
 Quantidade satisfeita de cada demanda: (0, 555, 0, 0, 1110)
 
 Padrão  7: (0, 2, 0, 2, 0) resto 4
-Quantidade usada: 1
-Quantidade desperdiçada: 4
-Quantidade satisfeita de cada demanda: (0, 2, 0, 2, 0)
+Quantidade usada: 523
+Quantidade desperdiçada: 2092
+Quantidade satisfeita de cada demanda: (0, 1046, 0, 1046, 0)
+
+Padrão 11: (0, 4, 0, 1, 0) resto 4
+Quantidade usada: 3
+Quantidade desperdiçada: 12
+Quantidade satisfeita de cada demanda: (0, 12, 0, 3, 0)
 
 Padrão 13: (0, 6, 0, 0, 0) resto 4
-Quantidade usada: 444
-Quantidade desperdiçada: 1776
-Quantidade satisfeita de cada demanda: (0, 2664, 0, 0, 0)
+Quantidade usada: 268
+Quantidade desperdiçada: 1072
+Quantidade satisfeita de cada demanda: (0, 1608, 0, 0, 0)
 
 Padrão 34: (4, 0, 0, 0, 1) resto 0
 Quantidade usada: 260
