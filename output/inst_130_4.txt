@@ -21,24 +21,29 @@ Demandas: [3050, 2334, 1256, 3213]
 Quantidade de bobinas usadas: 3081
 
 Padrão  0: (0, 0, 0, 2) resto 4
-Quantidade usada: 1388
-Quantidade desperdiçada: 5552
-Quantidade satisfeita de cada demanda: (0, 0, 0, 2776)
+Quantidade usada: 1386
+Quantidade desperdiçada: 5544
+Quantidade satisfeita de cada demanda: (0, 0, 0, 2772)
+
+Padrão  4: (1, 0, 2, 0) resto 3
+Quantidade usada: 2
+Quantidade desperdiçada: 6
+Quantidade satisfeita de cada demanda: (2, 0, 4, 0)
 
 Padrão  5: (1, 2, 1, 0) resto 1
-Quantidade usada: 949
-Quantidade desperdiçada: 949
-Quantidade satisfeita de cada demanda: (949, 1898, 949, 0)
+Quantidade usada: 947
+Quantidade desperdiçada: 947
+Quantidade satisfeita de cada demanda: (947, 1894, 947, 0)
 
 Padrão  6: (2, 1, 0, 1) resto 1
-Quantidade usada: 437
-Quantidade desperdiçada: 437
-Quantidade satisfeita de cada demanda: (874, 437, 0, 437)
+Quantidade usada: 441
+Quantidade desperdiçada: 441
+Quantidade satisfeita de cada demanda: (882, 441, 0, 441)
 
 Padrão 11: (4, 0, 1, 0) resto 0
-Quantidade usada: 307
+Quantidade usada: 305
 Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (1228, 0, 307, 0)
+Quantidade satisfeita de cada demanda: (1220, 0, 305, 0)
 
 Quantidade total de papel gasto: 400530
 Quantidade desperdiçada: 6938
