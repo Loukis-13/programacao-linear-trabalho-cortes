@@ -54,10 +54,15 @@ Demandas: [3050, 2334, 1256, 3213, 2066, 3335]
 
 Quantidade de bobinas usadas: 5135
 
-Padrão  1: (0, 0, 0, 0, 1, 1) resto 3
-Quantidade usada: 1941
-Quantidade desperdiçada: 5823
-Quantidade satisfeita de cada demanda: (0, 0, 0, 0, 1941, 1941)
+Padrão  0: (0, 0, 0, 0, 0, 2) resto 2
+Quantidade usada: 908
+Quantidade desperdiçada: 1816
+Quantidade satisfeita de cada demanda: (0, 0, 0, 0, 0, 1816)
+
+Padrão  2: (0, 0, 0, 0, 2, 0) resto 4
+Quantidade usada: 1033
+Quantidade desperdiçada: 4132
+Quantidade satisfeita de cada demanda: (0, 0, 0, 0, 2066, 0)
 
 Padrão  8: (0, 1, 0, 2, 0, 0) resto 0
 Quantidade usada: 1539
@@ -70,14 +75,9 @@ Quantidade desperdiçada: 0
 Quantidade satisfeita de cada demanda: (0, 795, 0, 0, 0, 265)
 
 Padrão 28: (2, 0, 1, 0, 0, 1) resto 0
-Quantidade usada: 1129
+Quantidade usada: 1254
 Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (2258, 0, 1129, 0, 0, 1129)
-
-Padrão 29: (2, 0, 1, 0, 1, 0) resto 1
-Quantidade usada: 125
-Quantidade desperdiçada: 125
-Quantidade satisfeita de cada demanda: (250, 0, 125, 0, 125, 0)
+Quantidade satisfeita de cada demanda: (2508, 0, 1254, 0, 0, 1254)
 
 Padrão 31: (2, 0, 3, 0, 0, 0) resto 8
 Quantidade usada: 1
