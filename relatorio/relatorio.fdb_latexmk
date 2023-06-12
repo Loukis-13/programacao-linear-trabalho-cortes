@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1686583708 "/home/loukis/projetos/Python/programacao-linear-trabalho-cortes/relatorio/relatorio.tex" "relatorio.pdf" "relatorio" 1686583709 0
-  "/home/loukis/projetos/Python/programacao-linear-trabalho-cortes/relatorio/relatorio.tex" 1686583708 8365 7278e925fdb3c94ad0dbcc41423781ca ""
+["pdflatex"] 1686585229 "/home/loukis/projetos/Python/programacao-linear-trabalho-cortes/relatorio/relatorio.tex" "relatorio.pdf" "relatorio" 1686585230 0
+  "/home/loukis/projetos/Python/programacao-linear-trabalho-cortes/relatorio/relatorio.tex" 1686585229 8365 8b6390fa5f59e818173bdfbf13ff8caf ""
   "/usr/local/share/texmf/tex/latex/adjustbox/adjcalc.sty" 1684958950 5598 c49b91713cbe5e50a1fabefb733eda0d ""
   "/usr/local/share/texmf/tex/latex/adjustbox/adjustbox.sty" 1684958950 56907 e3e515e490dbc35309a010b5bbe1bef5 ""
   "/usr/local/share/texmf/tex/latex/adjustbox/tc-pdftex.def" 1684958950 4070 1677cfee6374067b93f61cf57ecd7144 ""
@@ -76,8 +76,8 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1684958733 334215 ad2feb41952e3720830b65f83a01c5b0 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1684958690 8204102 c56b14c82e02024c7569b997e0b43c05 ""
   "input.png" 1685064896 57651 7615505b299ca9a16ceff3cd5a427ec6 ""
-  "relatorio.aux" 1686583708 1056 684ab8f10ce534feadc17b8eda27a053 "pdflatex"
-  "relatorio.tex" 1686583708 8365 7278e925fdb3c94ad0dbcc41423781ca ""
+  "relatorio.aux" 1686585229 1056 684ab8f10ce534feadc17b8eda27a053 "pdflatex"
+  "relatorio.tex" 1686585229 8365 8b6390fa5f59e818173bdfbf13ff8caf ""
   (generated)
   "relatorio.aux"
   "relatorio.log"

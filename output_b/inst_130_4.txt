@@ -25,15 +25,20 @@ Quantidade usada: 1081
 Quantidade desperdiçada: 4324
 Quantidade satisfeita de cada demanda: (0, 0, 0, 2162)
 
+Padrão  3: (0, 4, 0, 0) resto 18
+Quantidade usada: 1
+Quantidade desperdiçada: 18
+Quantidade satisfeita de cada demanda: (0, 4, 0, 0)
+
 Padrão  4: (1, 0, 2, 0) resto 3
-Quantidade usada: 307
-Quantidade desperdiçada: 921
-Quantidade satisfeita de cada demanda: (307, 0, 614, 0)
+Quantidade usada: 308
+Quantidade desperdiçada: 924
+Quantidade satisfeita de cada demanda: (308, 0, 616, 0)
 
 Padrão  5: (1, 2, 1, 0) resto 1
-Quantidade usada: 642
-Quantidade desperdiçada: 642
-Quantidade satisfeita de cada demanda: (642, 1284, 642, 0)
+Quantidade usada: 640
+Quantidade desperdiçada: 640
+Quantidade satisfeita de cada demanda: (640, 1280, 640, 0)
 
 Padrão  6: (2, 1, 0, 1) resto 1
 Quantidade usada: 1051
@@ -41,4 +46,4 @@ Quantidade desperdiçada: 1051
 Quantidade satisfeita de cada demanda: (2102, 1051, 0, 1051)
 
 Quantidade total de papel gasto: 400530
-Quantidade desperdiçada: 6938
+Quantidade desperdiçada: 6957
