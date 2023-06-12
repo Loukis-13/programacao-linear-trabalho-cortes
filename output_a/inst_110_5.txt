@@ -241,39 +241,39 @@ Quantidade desperdiçada: 0
 Quantidade satisfeita de cada demanda: (0, 0, 1984, 0, 992)
 
 Padrão 19: (0, 1, 1, 1, 3) resto 0
-Quantidade usada: 125
+Quantidade usada: 123
 Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (0, 125, 125, 125, 375)
+Quantidade satisfeita de cada demanda: (0, 123, 123, 123, 369)
 
 Padrão 53: (0, 6, 1, 0, 1) resto 0
-Quantidade usada: 93
+Quantidade usada: 94
 Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (0, 558, 93, 0, 93)
+Quantidade satisfeita de cada demanda: (0, 564, 94, 0, 94)
+
+Padrão 81: (1, 2, 2, 0, 2) resto 0
+Quantidade usada: 1
+Quantidade desperdiçada: 0
+Quantidade satisfeita de cada demanda: (1, 2, 2, 0, 2)
 
 Padrão 104: (2, 0, 0, 5, 0) resto 0
 Quantidade usada: 1
 Quantidade desperdiçada: 0
 Quantidade satisfeita de cada demanda: (2, 0, 0, 5, 0)
 
+Padrão 112: (2, 1, 0, 2, 2) resto 0
+Quantidade usada: 1
+Quantidade desperdiçada: 0
+Quantidade satisfeita de cada demanda: (2, 1, 0, 2, 2)
+
 Padrão 127: (2, 3, 0, 3, 0) resto 0
 Quantidade usada: 290
 Quantidade desperdiçada: 0
 Quantidade satisfeita de cada demanda: (580, 870, 0, 870, 0)
 
-Padrão 131: (2, 4, 0, 0, 2) resto 0
-Quantidade usada: 1
-Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (2, 4, 0, 0, 2)
-
 Padrão 144: (3, 0, 1, 0, 3) resto 0
-Quantidade usada: 6
+Quantidade usada: 7
 Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (18, 0, 6, 0, 18)
-
-Padrão 183: (4, 3, 2, 0, 0) resto 0
-Quantidade usada: 1
-Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (4, 3, 2, 0, 0)
+Quantidade satisfeita de cada demanda: (21, 0, 7, 0, 21)
 
 Padrão 228: (11, 0, 0, 0, 0) resto 0
 Quantidade usada: 65

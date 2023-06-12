@@ -233,32 +233,32 @@ Tamanho da bobina matriz: 110
 Tamanho das bobinas menores: [10, 12, 17, 18, 21]
 Demandas: [1320, 1560, 2210, 1000, 1480]
 
-Quantidade de bobinas usadas: 1079
+Quantidade de bobinas usadas: 1078
 
 Padrão 10: (0, 0, 4, 0, 2) resto 0
-Quantidade usada: 538
+Quantidade usada: 515
 Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (0, 0, 2152, 0, 1076)
-
-Padrão 112: (2, 1, 0, 2, 2) resto 0
-Quantidade usada: 38
-Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (76, 38, 0, 76, 76)
+Quantidade satisfeita de cada demanda: (0, 0, 2060, 0, 1030)
 
 Padrão 127: (2, 3, 0, 3, 0) resto 0
-Quantidade usada: 308
+Quantidade usada: 301
 Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (616, 924, 0, 924, 0)
+Quantidade satisfeita de cada demanda: (602, 903, 0, 903, 0)
 
-Padrão 131: (2, 4, 0, 0, 2) resto 0
-Quantidade usada: 135
+Padrão 138: (2, 6, 0, 1, 0) resto 0
+Quantidade usada: 97
 Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (270, 540, 0, 0, 270)
+Quantidade satisfeita de cada demanda: (194, 582, 0, 97, 0)
 
-Padrão 207: (6, 1, 1, 0, 1) resto 0
-Quantidade usada: 60
+Padrão 144: (3, 0, 1, 0, 3) resto 0
+Quantidade usada: 150
 Quantidade desperdiçada: 0
-Quantidade satisfeita de cada demanda: (360, 60, 60, 0, 60)
+Quantidade satisfeita de cada demanda: (450, 0, 150, 0, 450)
 
-Quantidade total de papel gasto: 118690
+Padrão 204: (5, 5, 0, 0, 0) resto 0
+Quantidade usada: 15
+Quantidade desperdiçada: 0
+Quantidade satisfeita de cada demanda: (75, 75, 0, 0, 0)
+
+Quantidade total de papel gasto: 118580
 Quantidade desperdiçada: 0
